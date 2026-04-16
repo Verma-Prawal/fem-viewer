@@ -1,4 +1,4 @@
-# FEM Viewer — Full-Stack Run Instructions
+# FEM Viewer — Android App Run Instructions
 
 ## Project Location
 ```

@@ -1,4 +1,4 @@
-# Spin-Fem — Android App Run Instructions
+# Spin-Fem — App Run Instructions
 
 ## Project Location
 ```
